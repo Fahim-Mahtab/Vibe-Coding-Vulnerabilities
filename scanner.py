@@ -20,7 +20,7 @@ console = Console()
 
 # --- CONFIGURATION ---
 # Replace with your actual Gemini API Key
-GEMINI_API_KEY = "AIzaSyAV1xwliNPAWBxvDsPXYrxhdGIRktqehXs"
+GEMINI_API_KEY = "you_api_key"
 
 def count_files(directory):
     count = 0
@@ -180,4 +180,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main()
